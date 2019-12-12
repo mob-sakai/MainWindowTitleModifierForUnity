@@ -8,7 +8,7 @@ Main Window Title Modifier For Unity (Demo)
   - Reflection
   - InternalsVisibleTo
   - IgnoresAccessChecksToAttribute
-- For more details, see [this article (Japanese)]()
+- For more details, see [this article (Japanese)](https://qiita.com/mob-sakai/items/f3bbc0c45abc31ea7ac0)
 
 
 ![](https://img.shields.io/badge/unity-2019.2%20or%20later-green.svg)
