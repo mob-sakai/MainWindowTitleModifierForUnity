@@ -1,0 +1,11 @@
+!*~
+.vs/
+.vscode/
+*.sln
+Editor/Unity.PureCSharpTests/
+Editor/Unity.PureCSharpTests.meta
+
+obj/
+bin/
+Tests/
+Tests.meta
