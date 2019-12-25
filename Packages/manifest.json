@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "com.coffee.internal-accessible-compiler": "https://github.com/mob-sakai/InternalAccessibleCompilerForUnity.git",
+    "com.coffee.open-sesame-compiler": "https://github.com/mob-sakai/OpenSesameCompilerForUnity.git",
     "com.unity.ide.rider": "1.1.0",
-    "com.unity.ide.vscode": "1.1.2",
+    "com.unity.ide.vscode": "1.1.3",
     "com.unity.package-manager-ui": "2.2.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
@@ -37,8 +37,8 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
-    "com.coffee.internal-accessible-compiler": {
-      "hash": "09b38598c489daa2662df992119e17a69c55638f",
+    "com.coffee.open-sesame-compiler": {
+      "hash": "3cd251958f9d1a27ae38137285309e0dc1476541",
       "revision": "HEAD"
     }
   }
